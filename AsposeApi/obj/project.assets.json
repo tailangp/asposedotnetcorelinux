@@ -12989,11 +12989,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\prashant-tailang\\source\\repos\\AsposeApi\\AsposeApi\\AsposeApi.csproj",
+      "projectUniqueName": "C:\\Users\\prashant-tailang\\source\\repos\\asposedotnetcorelinux\\AsposeApi\\AsposeApi.csproj",
       "projectName": "AsposeApi",
-      "projectPath": "C:\\Users\\prashant-tailang\\source\\repos\\AsposeApi\\AsposeApi\\AsposeApi.csproj",
+      "projectPath": "C:\\Users\\prashant-tailang\\source\\repos\\asposedotnetcorelinux\\AsposeApi\\AsposeApi.csproj",
       "packagesPath": "C:\\Users\\prashant-tailang\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\prashant-tailang\\source\\repos\\AsposeApi\\AsposeApi\\obj\\",
+      "outputPath": "C:\\Users\\prashant-tailang\\source\\repos\\asposedotnetcorelinux\\AsposeApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
