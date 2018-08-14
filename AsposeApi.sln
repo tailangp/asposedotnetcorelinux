@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsposeApi", "AsposeApi\AsposeApi.csproj", "{1735A422-0857-4E8F-9636-91732E18C7FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1735A422-0857-4E8F-9636-91732E18C7FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1735A422-0857-4E8F-9636-91732E18C7FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1735A422-0857-4E8F-9636-91732E18C7FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1735A422-0857-4E8F-9636-91732E18C7FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8F95541-ECE9-4A1E-93E8-4BF77F9C98B8}
+	EndGlobalSection
+EndGlobal

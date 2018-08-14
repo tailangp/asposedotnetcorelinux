@@ -1,0 +1,11 @@
+C:\Users\prashant-tailang\source\repos\AsposeApi\AsposeApi\bin\Debug\netcoreapp2.0\AsposeApi.deps.json
+C:\Users\prashant-tailang\source\repos\AsposeApi\AsposeApi\bin\Debug\netcoreapp2.0\AsposeApi.runtimeconfig.json
+C:\Users\prashant-tailang\source\repos\AsposeApi\AsposeApi\bin\Debug\netcoreapp2.0\AsposeApi.runtimeconfig.dev.json
+C:\Users\prashant-tailang\source\repos\AsposeApi\AsposeApi\bin\Debug\netcoreapp2.0\AsposeApi.dll
+C:\Users\prashant-tailang\source\repos\AsposeApi\AsposeApi\bin\Debug\netcoreapp2.0\AsposeApi.pdb
+C:\Users\prashant-tailang\source\repos\AsposeApi\AsposeApi\obj\Debug\netcoreapp2.0\AsposeApi.csprojResolveAssemblyReference.cache
+C:\Users\prashant-tailang\source\repos\AsposeApi\AsposeApi\obj\Debug\netcoreapp2.0\AsposeApi.csproj.CoreCompileInputs.cache
+C:\Users\prashant-tailang\source\repos\AsposeApi\AsposeApi\obj\Debug\netcoreapp2.0\AsposeApi.AssemblyInfoInputs.cache
+C:\Users\prashant-tailang\source\repos\AsposeApi\AsposeApi\obj\Debug\netcoreapp2.0\AsposeApi.AssemblyInfo.cs
+C:\Users\prashant-tailang\source\repos\AsposeApi\AsposeApi\obj\Debug\netcoreapp2.0\AsposeApi.dll
+C:\Users\prashant-tailang\source\repos\AsposeApi\AsposeApi\obj\Debug\netcoreapp2.0\AsposeApi.pdb
